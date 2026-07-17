@@ -1,11 +1,8 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Emmanuel Johnson</h1>
-<h3 align="center">Blockchain and Software Engineer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=manny-the-great">
-    <img src="https://komarev.com/ghpvc/?username=manny-the-great&label=Profile%20views&color=00FFFF&style=flat-square" alt="manny-the-great's profile views" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+<h3 align="center">Blockchain and Software Engineer</h3>
 
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
@@ -115,6 +112,10 @@
   </a>&nbsp;&nbsp;
   <a href="https://mannydev.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+
+    <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
   </a>
 </p>
 
