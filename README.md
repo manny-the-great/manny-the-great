@@ -1,119 +1,102 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Emmanuel Johnson</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+## About Me
 
-<h3 align="center">Blockchain and Software Engineer</h3>
+Software and Blockchain Developer with hands-on experience designing decentralized applications and smart contracts. Skilled in
+building secure, scalable systems across the full stack, with a focus on integrating blockchain solutions into real-world products.
+Passionate about leveraging emerging technologies to solve complex problems.
 
-## 📌 About Me
-- I am currently learning QA Automation
-- I am working on different projects that provides solution as a Software Engineer
+# ⚔️ All Of My Skills
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>TypeScript
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vue" width="48"/><br/>Vue
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=angular" width="48"/><br/>Angular
+</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="48"/><br/>Material UI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>Vite</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>npm</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sass" width="48"/><br/>Sass</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br/>Django</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>Flask</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"/><br/>Go</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>GCP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>Azure</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>GitHub Actions</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/>GitLab CI</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/>Cloudflare</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/>Netlify</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br/>.NET</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
+</tr>
+
+</table>
+
+</div>
 
 
-## 🧠 My Focus Areas
-- Software Developemnt
-- Blockchain Developement
-- AI Services
-- QA Automation
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/manny-the-great">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manny-the-great&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="manny-the-great's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=manny-the-great&theme=github_dark&hide_border=true&cache_seconds=86400" alt="manny-the-great's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=manny-the-great&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Emmanuel Johnson's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=manny-the-great&theme=github_dark&radius=10" alt="manny-the-great's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
 
 <p align="center">
   <a href="https://github.com/manny-the-great">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manny-the-great&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-johnson-623a69266/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/_mannythegreat_">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/8100214313">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@manny_xxii">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:emmanuel.johnson.ox@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://mannydev.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-
-    <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
   </a>
 </p>
 
