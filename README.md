@@ -1,105 +1,101 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Emmanuel Johnson</h1>
-
-## About Me
-
-Software and Blockchain Developer with hands-on experience designing decentralized applications and smart contracts. Skilled in
-building secure, scalable systems across the full stack, with a focus on integrating blockchain solutions into real-world products.
-Passionate about leveraging emerging technologies to solve complex problems.
-
-# ⚔️ All Of My Skills
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/>TypeScript
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vue" width="48"/><br/>Vue
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=angular" width="48"/><br/>Angular
-</td>
-</tr>
+  <h1>Emmanuel Johnson</h1>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="48"/><br/>Material UI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br/>Vite</td>
-</tr>
+  <!-- Dynamic Typing Headline -->
+  <a href="https://github.com/manny-the-great">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5A0&center=true&vCenter=true&width=620&lines=Software+%26+Blockchain+Engineer;Smart+Contracts+%26+EVM+Architecture;Scalable+Decentralized+Protocols;Full-Stack+Systems+Engineer" alt="Emmanuel Johnson - Typing Title" />
+  </a>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>npm</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sass" width="48"/><br/>Sass</td>
-</tr>
+  <br/><br/>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br/>Django</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI</td>
-</tr>
+  <!-- Minimalist Status & Contact Badges -->
+  <p>
+    <a href="https://github.com/manny-the-great"><img src="https://img.shields.io/badge/GitHub-manny--the--great-0d1117?style=flat-square&logo=github&logoColor=00f5a0" alt="GitHub" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+    <a href="mailto:contact@manny.dev"><img src="https://img.shields.io/badge/Email-Get_in_Touch-0d1117?style=flat-square&logo=gmail&logoColor=00f5a0" alt="Email" /></a>
+  </p>
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>Flask</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"/><br/>Go</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>Firebase</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/>Supabase</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>GCP</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br/>Azure</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>GitHub Actions</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br/>GitLab CI</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"/><br/>Cloudflare</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48"/><br/>Netlify</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br/>.NET</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>TensorFlow</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>PyTorch</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
-</tr>
-
-</table>
+  <p>
+    <em>Specializing in decentralized protocols, smart contract architecture, and high-throughput full-stack systems.</em>
+  </p>
 
 </div>
 
+---
 
+### ⚡ Architectural Focus
 
-<p align="center">
-  <a href="https://github.com/manny-the-great">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manny-the-great&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+- ⛓️ **Decentralized Systems**: Smart contract engineering (EVM / Solidity), dApp protocols, cross-chain communication, DeFi integrations.
+- ⚡ **Full-Stack Performance**: High-concurrency backends (Node.js, Go, Python, FastAPI) paired with reactive modern frontends (TypeScript, React, Next.js).
+- 🛡️ **Reliability & Scalability**: Cloud-native infrastructure (Docker, AWS, GCP), automated CI/CD pipelines, and secure database architecture.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+---
+
+### 🛠️ Core Tech Stack
+
+<div align="center">
+
+  <p><strong>Languages & Core</strong></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,python,go,dotnet,java,html,css&theme=dark" alt="Languages" />
+    </a>
+  </p>
+
+  <p><strong>Frontend & Frameworks</strong></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,tailwind,materialui,sass&theme=dark" alt="Frontend" />
+    </a>
+  </p>
+
+  <p><strong>Backend, Cloud & Databases</strong></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,django,flask,postgres,mysql,mongodb,supabase,firebase&theme=dark" alt="Backend & Databases" />
+    </a>
+  </p>
+
+  <p><strong>DevOps, Cloud & Tooling</strong></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,cloudflare,githubactions,gitlab,linux,pytorch,tensorflow&theme=dark" alt="DevOps" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 📈 GitHub Metrics & Real Activity
+
+<div align="center">
+
+  <!-- Real Contribution Curve Banner (Emerald on Obsidian) -->
+  <p align="center">
+    <a href="https://github.com/manny-the-great">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manny-the-great&theme=github_dark" alt="Contribution Wave" width="700" />
+    </a>
+  </p>
+
+  <!-- Compact Dual Cards: Stats & Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manny-the-great&show_icons=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&border_radius=8" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manny-the-great&layout=compact&langs_count=6&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" width="48%" />
+  </p>
+
+  <!-- Centered GitHub Commit Streak (Neon Mint & Cyan on Obsidian) -->
+  <p align="center">
+    <a href="https://github.com/manny-the-great">
+      <img src="https://streak-stats.demolab.com/?user=manny-the-great&background=0d1117&border=30363d&stroke=00f5a0&ring=00f5a0&fire=00f5a0&currStreakNum=00f5a0&sideNums=38bdf8&sideLabels=8b949e&currStreakLabel=00f5a0&dates=8b949e&border_radius=8&card_width=700&disable_animations=true" alt="GitHub Commit Streak" width="700" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Emmanuel Johnson</sub>
+</div>
