@@ -81,21 +81,20 @@
 
   <!-- Compact Dual Cards: Stats & Top Languages -->
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manny-the-great&show_icons=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&border_radius=8" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manny-the-great&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&border_radius=8" alt="GitHub Stats" width="48%" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manny-the-great&layout=compact&langs_count=6&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" width="48%" />
   </p>
 
   <!-- Centered GitHub Commit Streak (Neon Mint & Cyan on Obsidian) -->
   <p align="center">
     <a href="https://github.com/manny-the-great">
-      <img src="https://streak-stats.demolab.com/?user=manny-the-great&background=0d1117&border=30363d&stroke=00f5a0&ring=00f5a0&fire=00f5a0&currStreakNum=00f5a0&sideNums=38bdf8&sideLabels=8b949e&currStreakLabel=00f5a0&dates=8b949e&border_radius=8&card_width=700&disable_animations=true" alt="GitHub Commit Streak" width="700" />
+      <img src="https://streak-stats.demolab.com/?user=manny-the-great&background=0d1117&border=30363d&stroke=00f5a0&ring=00f5a0&fire=00f5a0&currStreakNum=00f5a0&sideNums=38bdf8&sideLabels=8b949e&currStreakLabel=00f5a0&dates=8b949e&border_radius=8&card_width=700&disable_animations=true&mode=daily&timezone=Africa/Lagos" alt="GitHub Commit Streak" width="700" />
     </a>
   </p>
-
 </div>
 
 ---
 
 <div align="center">
-  <sub>Emmanuel Johnson</sub>
+  <sub>Architected with precision & minimalism • Emmanuel Johnson</sub>
 </div>
